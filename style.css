@@ -7,10 +7,6 @@
     --secondary: white;
 }
 
-body {
-    font-family: Arial, Helvetica, sans-serif;
-}
-
 #navbar {
     background-color: gainsboro;
     color: var(--secondary);
@@ -18,13 +14,7 @@ body {
 }
 
 .navbar-brand {
-    font-size: 50px;
-}
-
-
-.card-header {
-    background-color: var(--primary);
-    color: var(--secondary);
+    font-size: 70px;
 }
 
 .card-body {
